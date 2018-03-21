@@ -1,0 +1,51 @@
+-injars 'D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\libs\mobilecloud.handin-1.0.0.jar'(**.class)
+-injars 'C:\Users\Public\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\abc7b85ef00d6408c9a11a16371fb21e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Public\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\17a1fd386f28328c2f9066c18677fc43\jars\classes.jar'(**.class)
+-injars 'C:\Users\Public\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar'(**.class)
+-injars 'C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar'(**.class)
+-injars 'C:\Users\Public\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a33d9bf12319e09cf624d21e52dfb6b1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\8489a6a3cdbba2447f9bc0ad2ea227e3\jars\classes.jar'(**.class)
+-injars 'C:\Users\Public\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\8489a6a3cdbba2447f9bc0ad2ea227e3\jars\libs\internal_impl-22.2.1.jar'(**.class)
+-injars 'C:\Users\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar'(**.class)
+-injars 'D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\classes\debug'(**.class)
+-outjars 'D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\SDK\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

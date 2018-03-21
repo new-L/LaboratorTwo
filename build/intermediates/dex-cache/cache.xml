@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_8cccce36557a4a7eb967d83d51798d9bca4b1d59\classes.dex" />
+    </item>
+    <item
+        jar="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_84fdc5ef57c83a5262f663d99065a1afc3aa6eea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Public\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_0a6128c9a18a9c29883ac4991c048ffe7fc543e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_7fafa608fff8b5e9378a7eba8e9cbb03fde6cc3d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_622f696a0122dfe2a8ea6204a070dd4142e146fd\classes.dex" />
+    </item>
+    <item
+        jar="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_a463094825d2abcf540ea4c99e1422ea34c9e79a\classes.dex" />
+    </item>
+    <item
+        jar="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_9aef85e5d2fa3860a7cabb46910f837cd4d430a9\classes.dex" />
+    </item>
+    <item
+        jar="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\MobileApplicationsDevelopment-master\lab2-assignment-diamond-sizes-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_072a186f2cb5c6d524305a76ce0e8158f875c0b8\classes.dex" />
+    </item>
+
+</items>
